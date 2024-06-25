@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TiendaSaraApplication<Tienda-sara>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tiendasara.Tienda.sara.TiendaSaraApplication",
+            "projectName": "Tienda-sara",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
